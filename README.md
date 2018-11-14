@@ -35,8 +35,9 @@ module.exports = [
 ![tpl file](https://github.com/chenbimo/yinchtml/blob/master/doc/tpl.png)
 
 - inc:the include directory,such as ```php <?php include('./head.php'); ?>```
+	- inc head file
 ![inc1](https://github.com/chenbimo/yinchtml/blob/master/doc/inc1.png)
-
+	- inc script file
 ![inc1](https://github.com/chenbimo/yinchtml/blob/master/doc/inc2.png)
 
 - dist:the dist directory,the final html files
