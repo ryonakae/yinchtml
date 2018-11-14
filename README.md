@@ -34,7 +34,7 @@ tpl:the html template directory,such as .php file
 ---
 ![tpl file](https://github.com/chenbimo/yinchtml/blob/master/doc/tpl.png)
 ---
-inc:the include directory,such as <?php include('./head.php'); ?>
+inc:the include directory,such as ```php <?php include('./head.php'); ?>```
 ---
 ![inc1](https://github.com/chenbimo/yinchtml/blob/master/doc/inc1.png)
 ---
