@@ -1,0 +1,29 @@
+{
+  "name": "yinchtml",
+  "version": "1.0.0",
+  "description": "a html include tool",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "bin": {
+    "yinchtml":"./index.js"
+  },
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenbimo/yinchtml.git"
+  },
+  "keywords": [
+    "html",
+    "include"
+  ],
+  "author": "chensuiyi",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/chenbimo/yinchtml/issues"
+  },
+  "homepage": "https://github.com/chenbimo/yinchtml#readme"
+}
