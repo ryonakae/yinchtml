@@ -1,6 +1,6 @@
 {
   "name": "yinchtml",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a html include tool",
   "main": "index.js",
   "directories": {
