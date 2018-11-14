@@ -31,6 +31,10 @@ module.exports = [
 	}
 ];
 ```
+# include tag
+the ```html <!--[include file_path]-->``` string will be replace by file data.
+write it in anywhere that you want to include other html file. 
+
 - `tpl` :the html template directory,such as .php file
 
 ![tpl file](https://github.com/chenbimo/yinchtml/blob/master/doc/tpl.png)
