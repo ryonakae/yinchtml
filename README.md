@@ -31,9 +31,9 @@ module.exports = [
 ];
 ```
 tpl:the html template directory,such as .php file
-[tpl file](https://github.com/chenbimo/yinchtml/blob/master/doc/tpl.png)
+![tpl file](https://github.com/chenbimo/yinchtml/blob/master/doc/tpl.png)
 inc:the include directory,such as <?php include('./head.php'); ?>
-[inc1](https://github.com/chenbimo/yinchtml/blob/master/doc/inc1.png)
-[inc1](https://github.com/chenbimo/yinchtml/blob/master/doc/inc2.png)
+![inc1](https://github.com/chenbimo/yinchtml/blob/master/doc/inc1.png)
+![inc1](https://github.com/chenbimo/yinchtml/blob/master/doc/inc2.png)
 dist:the dist directory,the final html files
-[inc1](https://github.com/chenbimo/yinchtml/blob/master/doc/dist.png)
+![inc1](https://github.com/chenbimo/yinchtml/blob/master/doc/dist.png)
