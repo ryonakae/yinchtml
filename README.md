@@ -30,7 +30,7 @@ module.exports = [
 	}
 ];
 ```
-- tpl:the html template directory,such as .php file
+- `tpl` :the html template directory,such as .php file
 
 ![tpl file](https://github.com/chenbimo/yinchtml/blob/master/doc/tpl.png)
 
