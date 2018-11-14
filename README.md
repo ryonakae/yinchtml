@@ -1,5 +1,6 @@
 # yinchtml
 a html include tool
+![tpl file](https://github.com/chenbimo/yinchtml/blob/master/doc/yinchtml2.gif)
 # usage
 as a global module
 ```javascript
