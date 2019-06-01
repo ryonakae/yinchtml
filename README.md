@@ -22,12 +22,14 @@ module.exports = [
 	{
 		tpl:'tpl',
 		inc:'.',
-		dist:'.'
+		dist:'.',
+		ext: '.html'
 	},
 	{
 		tpl:'tpl',
 		inc:'.',
-		dist:'test'
+		dist:'test',
+		ext: '.html'
 	}
 ];
 ```
@@ -50,3 +52,5 @@ write it in anywhere that you want to include other html file.
 - `dist` :the dist directory,the final html files
 
 ![inc1](https://github.com/chenbimo/yinchtml/blob/master/doc/dist.png)
+
+- `ext` :target file extensiion (optional)
